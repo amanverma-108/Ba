@@ -25,3 +25,12 @@
 1. The CRM must compare the `Terminal_Input_Price` with the `Ledger_Execution_Price` for intraday trades.
 2. If a discrepancy exists (e.g., Terminal Input was 157.60, but Ledger Execution was 157.76), the system must highlight the trade row in red on the agent's dashboard.
 3. The system must calculate and display the exact price delta (e.g., 0.16) for quick reference.
+   
+---
+
+## Requirement Traceability Matrix (RTM)
+
+| Business Goal | Functional Req (User Story) | Test Case ID | Status |
+| :--- | :--- | :--- | :--- |
+| Reduce manual document review time | **US 1.1:** Auto-flag expired ID docs | TC-001 | Pending |
+| Resolve support tickets faster | **US 2.1:** Flag trade price discrepancies | TC-002 | Pending |
