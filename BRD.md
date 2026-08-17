@@ -20,7 +20,6 @@ The purpose of this project is to define the requirements for a Financial Broker
 
 ## 4. Business Process Flow (As-Is vs To-Be)
 
-*Note: GitHub automatically renders the following Mermaid code into a visual flowchart.*
 
 ### To-Be Automated KYC & Trade Reconciliation Flow
 
